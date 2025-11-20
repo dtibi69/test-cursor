@@ -1,17 +1,17 @@
-# Test Cursor
+# 🐍 Test Cursor
 
-Ce projet contient plusieurs fichiers Python qui affichent des messages de salutation pour différentes personnes.
+Ce projet contient plusieurs fichiers Python qui affichent des messages de salutation pour différentes personnes. 👋
 
-## Fichiers
+## 📁 Fichiers
 
-- `daniel.py` - Affiche "hello daniel" trois fois
-- `ben.py` - Affiche "Hello Ben" trois fois
-- `emma.py` - Affiche "Hello Emma" trois fois
-- `anaelle.py` - Affiche "Hello Anaelle" trois fois
-- `nathalie.py` - Affiche "Hello Nathalie" trois fois
-- `ari.py` - Affiche "Hello Ari" trois fois
+- `daniel.py` 👨 - Affiche "hello daniel" trois fois
+- `ben.py` 👨 - Affiche "Hello Ben" trois fois
+- `emma.py` 👩 - Affiche "Hello Emma" trois fois
+- `anaelle.py` 👩 - Affiche "Hello Anaelle" trois fois
+- `nathalie.py` 👩 - Affiche "Hello Nathalie" trois fois
+- `ari.py` 👤 - Affiche "Hello Ari" trois fois
 
-## Utilisation
+## 🚀 Utilisation
 
 Pour exécuter un fichier, utilisez la commande :
 
@@ -19,7 +19,7 @@ Pour exécuter un fichier, utilisez la commande :
 python nom_du_fichier.py
 ```
 
-## Exemple
+## 💡 Exemple
 
 ```bash
 python daniel.py
