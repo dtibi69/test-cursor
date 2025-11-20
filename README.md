@@ -11,7 +11,7 @@ Ce projet contient plusieurs fichiers Python qui affichent des messages de salut
 - `nathalie.py` 👩 - Affiche "Hello Nathalie" trois fois
 - `ari.py` 👤 - Affiche "Hello Ari" trois fois
 
-## 🚀 Utilisation
+## Utilisation
 
 Pour exécuter un fichier, utilisez la commande :
 
